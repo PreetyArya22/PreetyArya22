@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Preety Arya</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">"Web Developer from India | React.js, DSA, Python | Continuous Learner"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetyarya22&label=Profile%20views&color=0e75b6&style=flat" alt="preetyarya22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetyarya22" alt="preetyarya22" /></a> </p>
 
-- 🔭 I’m currently working on skills **DSA**
+- 🔭 I’m currently working on skills **React.js and Data Structures & Algorithms (DSA)**
 
-- 🌱 I’m currently learning **React.js , DSA**
+- 🌱 I’m currently learning **Exploring React.js, deepening my understanding of DSA, and diving into backend technologies like Django**
 
-- 👯 I’m looking to collaborate on **React.js**
+- 👯 I’m looking to collaborate on **React.js projects, open-source contributions, and full-stack development.**
+
+- 🤝 I’m looking for help with **optimizing React.js performance and advanced DSA concepts**
+
+- 👨‍💻 All of my projects are available at [github.com/aryapreety2204](github.com/aryapreety2204)
 
 - 💬 Ask me about **Python , react.js , Django**
 
 - 📫 How to reach me **aryapreety48@gmail.com**
+
+- 📄 Know about my experiences [https://tinyurl.com/Preety-Arya-resume](https://tinyurl.com/Preety-Arya-resume)
+
+- ⚡ Fun fact **I'm a fitness enthusiast and I believe coding and physical activity go hand in hand.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
